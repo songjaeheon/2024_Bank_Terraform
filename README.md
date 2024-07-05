@@ -1,1 +1,1 @@
-# 2024_Banking_Terraform
+# 2024_Bank_Terraform
